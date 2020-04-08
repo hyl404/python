@@ -1,2 +1,2 @@
 # python
-如果想要下载并允许此程序必须先装python环境，下载pycharm或者其他python编辑器，最后导入文件里的demo1与demo2即可
+如果想要下载并运行此程序必须先装python环境，下载pycharm或者其他python编辑器，最后导入文件里的demo1与demo2即可
